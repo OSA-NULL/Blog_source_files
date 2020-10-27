@@ -1,8 +1,8 @@
 # Blog_hexo
 
-协会Blog使用Hexo搭建，并使用Ayer主题
-由于三大运营商把Github page给墙了，所以大家请在访问协会[Blog](https://osa-null.github.io)前，手动设置DNS，推荐114.114.114.114或223.5.5.5
-增加Pages及Posts时请使用[Markdown](https://www.markdownguide.org/)语言编写
+协会Blog使用Hexo搭建，并使用Ayer主题  
+由于三大运营商把Github page给墙了，所以大家请在访问协会[Blog](https://osa-null.github.io)前，手动设置DNS，推荐114.114.114.114或223.5.5.5  
+增加Pages及Posts时请使用[Markdown](https://www.markdownguide.org/)语言编写  
 
 详细配置教程请参考
 [Hexo Doc](https://hexo.io/docs/)
