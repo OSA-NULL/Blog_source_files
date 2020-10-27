@@ -32,6 +32,6 @@
 
 * 写一个bash脚本，用于Blog操作，省去输入一长串命令的繁琐
 
-    `$osa_blog add news 'news title'` for posting a new news page titled 'news title'
-    `$osa_blog add tutorials 'tutorials title'` for posting a new tutorials page.
+    `$osa_blog add news 'news title'` for posting a new news page titled 'news title'  
+    `$osa_blog add tutorials 'tutorials title'` for posting a new tutorials page.  
     and etc.
